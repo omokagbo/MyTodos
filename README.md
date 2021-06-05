@@ -25,3 +25,9 @@ On clicking on the add todo button at the top right corner of the Todo lists scr
 On clicking on any of the todos, the user is taken to a todo details screen where they can either update the title and details of the todo or choose to delete the todo when they have accomplished the task.
 
 <img width="386" alt="Screenshot 2021-06-05 at 22 33 13" src="https://user-images.githubusercontent.com/69020285/120906042-270f6080-c64e-11eb-8355-970805c5e12c.png">
+
+
+## LIST OF TODOS!!!
+<img width="409" alt="Screenshot 2021-06-05 at 22 45 14" src="https://user-images.githubusercontent.com/69020285/120906261-c3863280-c64f-11eb-8eab-faef2a051378.png">
+
+

@@ -11,6 +11,7 @@ A todo app that performs all the CRUD operations. Data persistence is carried ou
 
 ## ADD TODO SCREEN:
 On clicking on the add todo button at the top right corner of the Todo lists screen, user is taken to where they can enter the title of the task they hope to achieve as well as any other details they may want to add.
+
 <img width="414" alt="Screenshot 2021-06-05 at 22 31 38" src="https://user-images.githubusercontent.com/69020285/120906037-1f4fbc00-c64e-11eb-9bfe-1c7095e3ae3b.png">
 
 ### Adding title and details of the todo/ task
@@ -22,4 +23,5 @@ On clicking on the add todo button at the top right corner of the Todo lists scr
 
 ## TODO DETAILS SCREEN:
 On clicking on any of the todos, the user is taken to a todo details screen where they can either update the title and details of the todo or choose to delete the todo when they have accomplished the task.
+
 <img width="386" alt="Screenshot 2021-06-05 at 22 33 13" src="https://user-images.githubusercontent.com/69020285/120906042-270f6080-c64e-11eb-8355-970805c5e12c.png">
